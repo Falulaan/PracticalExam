@@ -18,6 +18,7 @@ A Python inventory system using OOP principles to manage product stock with add/
 Unit tests included in main.py (commented out). Uncomment and run to test.
 
 **Requirements Met**
+
 ✅ OOP with encapsulation
 ✅ Error handling
 ✅ Clean code with comments
