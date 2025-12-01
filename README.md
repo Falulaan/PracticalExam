@@ -35,7 +35,8 @@ Unit tests included in main.py (commented out). Uncomment and run to test.
 ✅ SQL schema with relationships
 
 
-**AI Usage**
+
+**AI Usage :**
 
 Microsoft CoPilot AI assisted with:
 -	Encapsulation of the code
