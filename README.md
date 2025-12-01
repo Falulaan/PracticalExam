@@ -2,6 +2,7 @@
 Overview**
 
 **Name : Ahmed Falulaan**
+
 A Python inventory system using OOP principles to manage product stock with add/remove operations and value calculations.
 
 
